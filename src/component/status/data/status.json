@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "./Assets/image/pic(1).jpeg"
+      },
+      {
+        "id": 2,
+        "image": "./Assets/image/bakery-item-2.jpeg"
+      },
+      {
+        "id": 3,
+        "image": "./Assets/image/pipe.jpeg"
+        
+      },
+      {
+        "id": 4,
+        "image": "./Assets/image/pizza.jpeg"
+      },
+      {
+        "id": 5,
+        "image": "./Assets/image/cake.jpeg"
+      },
+      {
+        "id": 6,
+        "image": "./Assets/image/botal.jpeg"
+      }
+    ]
+  }
+  
