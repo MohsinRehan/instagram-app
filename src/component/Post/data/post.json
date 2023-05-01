@@ -1,25 +1,29 @@
 {
-    "data": [
+    "post": [
       {
         "id": 1,
         "image": "./Assets/image/dark.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "12h"
       },
       {
         "id": 2,
         "image": "./Assets/image/dock.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "12h"
       },
       {
         "id": 3,
         "image": "./Assets/image/emoji.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "12h"
         
       },
       {
         "id": 4,
         "image": "./Assets/image/smile-emoji.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "12h"
       },
       {
         "id": 5,
@@ -46,6 +50,12 @@
         "id": 9,
         "image": "./Assets/image/itman.jpg",
         "name" : "Mohsin"
+      },
+      {
+        "id": 10,
+        "image": "./Assets/image/goli.jpg",
+        "name" : "Mohsin"
+
       }
     ]
   }
