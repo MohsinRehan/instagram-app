@@ -7,7 +7,7 @@ import Profile from '../../component/Profileright';
 const Home = () => {
   return (
     <Pagelayout>
-      <div>
+      <div className='ml-[280px]'>
       <InstagramStory/>
       <Post/>
       </div>

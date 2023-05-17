@@ -4,31 +4,32 @@
         "id": 1,
         "image": "./Assets/image/dark.jpg",
         "name" : "Mohsin",
-        "time"  : "12h"
+        "time"  : "2h"
       },
       {
         "id": 2,
         "image": "./Assets/image/dock.jpg",
         "name" : "Mohsin",
-        "time"  : "12h"
+        "time"  : "6h"
       },
       {
         "id": 3,
         "image": "./Assets/image/emoji.jpg",
         "name" : "Mohsin",
-        "time"  : "12h"
+        "time"  : "3h"
         
       },
       {
         "id": 4,
         "image": "./Assets/image/smile-emoji.jpg",
         "name" : "Mohsin",
-        "time"  : "12h"
+        "time"  : "6h"
       },
       {
         "id": 5,
         "image": "./Assets/image/man.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "12h"
       },
       {
         "id": 6,
@@ -38,23 +39,27 @@
       {
         "id": 7,
         "image": "./Assets/image/goli.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "16h"
 
       },
       {
         "id": 8,
         "image": "./Assets/image/man.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "19h"
       },
       {
         "id": 9,
         "image": "./Assets/image/itman.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "11h"
       },
       {
         "id": 10,
         "image": "./Assets/image/goli.jpg",
-        "name" : "Mohsin"
+        "name" : "Mohsin",
+        "time"  : "18h"
 
       }
     ]
